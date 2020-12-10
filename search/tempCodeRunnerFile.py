@@ -1,0 +1,2 @@
+
+        totalascii=0
